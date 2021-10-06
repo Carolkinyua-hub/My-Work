@@ -3,6 +3,6 @@
   color: rgb(3, 46, 46)
 }
 .list{
-  box-shadow: cyan;
-  counter-reset: gradient-counter;
+  color:green;
+  text-shadow: lawngreen;
 }
