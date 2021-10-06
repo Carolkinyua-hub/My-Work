@@ -5,5 +5,4 @@
 .list{
   box-shadow: cyan;
   counter-reset: gradient-counter;
-  list-style-type: disc;
 }
