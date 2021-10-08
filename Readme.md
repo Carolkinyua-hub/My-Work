@@ -18,5 +18,5 @@ None
 ## Support and contact details
 Feel free to fork and make changes to the code
 ### License
-*{mit}*
+*{[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)}*
 Copyright (c) {2021} **{Caroline Kinyua}**
